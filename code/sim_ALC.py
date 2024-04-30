@@ -50,9 +50,9 @@ def main(number_simulations, group_means, n_e_all, like, model, trials_per_game,
     estimations: array
         estimation of difference in mean between the two groups
     pred_posteriors: array
-        predictive posteriors divided by 10**factors
+        predictive posteriors multiplied by 10**factors
     factors:array
-        predictive posteriors were divided by  10 ** factors
+        predictive posteriors were multiplied by  10 ** factors
     lengths: array
         length of HPDI
     '''

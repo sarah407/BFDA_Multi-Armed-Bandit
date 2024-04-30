@@ -20,6 +20,8 @@ The data resulting form the simulations and analysis is stored in the 'data' fol
     - data from estimating the difference in exploration parameter between two groups, as well as calculating the Bayes factor in favour of a difference in means.
         - as a function of number of games per participant and sample size
     - includes the variables BF, estimations, means_all, var
+    - true difference in exploration is 0.3
+
         - BF: array
             - Bayes factor testing tau =\= 0 against tau = 0
         - estimations: array
@@ -61,11 +63,11 @@ The data resulting form the simulations and analysis is stored in the 'data' fol
         - means_all: array
             - tested population means for both groups
         - pred_posteriors: array
-            - predictive posteriors for each simulation (divided by 10**factors)
+            - predictive posteriors for each simulation (multiplied by 10^factors)
         - lengths: array
             - length of HPDI
         - factors: array
-            - predictive posteriors were divided by  10 ** factors
+            - predictive posteriors were multiplied by  10^factors
         - var: dict
             - summary of used variables
 
