@@ -72,7 +72,7 @@ The data resulting form the simulations and analysis is stored in the 'data' fol
             - summary of used variables
 
 ## License
-Enhancing Experimental Design through Bayes Factor Design Analysis: Insights from Multi-Armed Bandit Tasks © 2024 is licensed under CC BY 4.0 
+Enhancing Experimental Design through Bayes Factor Design Analysis: Insights from an Example Estimating Random Exploration within a Multi-Armed Bandit Task © 2024 is licensed under CC BY 4.0 
 
 This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes.
 
