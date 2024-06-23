@@ -1,7 +1,7 @@
 # Enhancing Experimental Design through Bayes Factor Design Analysis: Insights from Multi-Armed Bandit Tasks
 
 ## Introduction
-This is the code used for the simulations and analysis in the paper 'Enhancing Experimental Design through Bayes Factor Design Analysis: Insights from Multi-Armed Bandit Tasks' (submitted, currently in review). 
+This is the code used for the simulations and analysis in the paper 'Enhancing Experimental Design through Bayes Factor Design Analysis: Insights from Multi-Armed Bandit Tasks'. 
 The pipeline simulates behavioural data from a two-armed bandit task, after which estimates of the exploration parameter and differences in exploration between groups are analysed.
 A design analysis using Bayes Factor was conducted to examine the correlation between sample size and the strength of evidence for a difference in exploration between two groups. This analysis considers the likelihood of substantial evidence for an incorrect hypothesis and the likelihood of insufficient evidence for the correct hypothesis.
 
